@@ -117,10 +117,25 @@ export default function Home() {
           <a
             href="https://helloworld-udo4zt7ixa-uc.a.run.app/"
             className="text-blue-600 font-bold"
+            target="_blank"
           >
             Bu link
           </a>
           'i kullanarak API Endpoint'ine ulaşabilirsiniz.
+          <a
+            href="https://github.com/AlperGurel/bookish-funicular"
+            className="text-blue-600 font-bold block mt-2"
+            target="_blank"
+          >
+            Frontend Source
+          </a>
+          <a
+            href="https://github.com/AlperGurel/didactic-invention"
+            className="text-blue-600 font-bold block mt-2"
+            target="_blank"
+          >
+            API Source
+          </a>
         </div>
         <div className="mt-4">
           <h3 className="text-2xl font-bold mt-12">Authorization</h3>
